@@ -27,7 +27,7 @@ function App() {
         ))}
       </ul>
       <div>
-        🥳 App successfully hosted. Try creating a new todo. Vova is here...
+        🥳 App successfully hosted. Try creating a new todo.
         <br />
         <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
           Review next step of this tutorial.
@@ -38,4 +38,3 @@ function App() {
 }
 
 export default App;
-
